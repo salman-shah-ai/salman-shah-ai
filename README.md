@@ -19,6 +19,18 @@ My research bridges **Reinforcement Learning**, **Large Language Models (LLMs)**
 
 ## 📌 Pinned Research Projects
 
+### 🏗️ [Digital Twin–Driven Real-Time Collaborative Scheduling (v2.0)](https://github.com/salman-shah-ai/Digital-Twin-Driven-Real-Time-Collaborative-Scheduling-for-U-Shaped-Automated-Container-Terminals)
+[![Python](https://img.shields.io/badge/Language-Python-yellow?logo=python)](https://www.python.org)
+[![Simulation](https://img.shields.io/badge/Domain-Digital%20Twin-blue)]()
+[![Optimization](https://img.shields.io/badge/Focus-Real--Time%20Scheduling-green)]()
+[![Version](https://img.shields.io/badge/Version-2.0-red)]()
+[![License](https://img.shields.io/github/license/salman-shah-ai/Digital-Twin-Driven-Real-Time-Collaborative-Scheduling-for-U-Shaped-Automated-Container-Terminals)](https://github.com/salman-shah-ai/Digital-Twin-Driven-Real-Time-Collaborative-Scheduling-for-U-Shaped-Automated-Container-Terminals/blob/main/LICENSE)
+
+A **high-fidelity digital twin system** designed for real-time scheduling in **U-shaped automated container terminals**.  
+Integrates predictive models, hybrid optimization, and adaptive control mechanisms to achieve **collaborative task scheduling**, reduced system latency, and improved operational efficiency within dynamic port environments.
+
+---
+
 ### 🧠 [HoloLens 2 Digital Twin Simulations](https://github.com/salman-shah-ai/hololens-2-digital-twin-sims)
 [![Unity](https://img.shields.io/badge/Engine-Unity-black?logo=unity)](https://unity.com)
 [![C#](https://img.shields.io/badge/Language-C%23-blue?logo=csharp)](https://docs.microsoft.com/en-us/dotnet/csharp/)
