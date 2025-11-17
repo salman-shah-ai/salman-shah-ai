@@ -1,9 +1,9 @@
 # 👋 Hi, I’m Salman Shah
 
-🎓 **AI Researcher | Human–AI Teams | Deep Reinforcement Learning | Digital Twins | Computer Vision**
+🎓 **Student Researcher | Human–AI Teams | Deep Reinforcement Learning | Digital Twins | Computer Vision**
 
-I’m an academic researcher exploring how **AI systems learn, adapt, and collaborate with humans** in complex, uncertain environments.  
-My research bridges **Reinforcement Learning**, **Large Language Models (LLMs)**, and **Digital Twin simulations**, developing intelligent agents that reason and act autonomously in real-time systems.
+I’m an student researcher exploring how **AI systems learn, adapt, and collaborate with humans** in complex, uncertain environments.
+I investigate how intelligent systems learn, adapt, and collaborate with humans in complex, real-world environments. My work integrates **Deep Learning**, **Reinforcement Learning**, **Large Language Models (LLMs)**, and **Digital Twin simulations** to design adaptive, explainable, and scalable AI systems.
 
 ---
 
