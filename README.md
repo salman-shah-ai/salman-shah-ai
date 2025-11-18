@@ -51,13 +51,27 @@ Demonstrates model optimization, feature visualization, and robust generalizatio
 
 ---
 
-### 🤖 PPO Policy Learning Demo
-[![PyTorch](https://img.shields.io/badge/Framework-PyTorch-orange?logo=pytorch)](https://pytorch.org)
-[![RL](https://img.shields.io/badge/Method-Proximal%20Policy%20Optimization-red)](https://arxiv.org/abs/1707.06347)
-[![Gymnasium](https://img.shields.io/badge/Env-Gymnasium-blue)](https://gymnasium.farama.org)
+### 🤖 [Parameter-Space-Noise-for-Exploration](https://github.com/salman-shah-ai/Parameter-Space-Noise-for-Exploration)
+[![Python](https://img.shields.io/badge/Language-Python-yellow?logo=python)](https://www.python.org)
+[![PyTorch](https://img.shields.io/badge/Library-PyTorch-orange?logo=pytorch)](https://pytorch.org)
+[![Gym](https://img.shields.io/badge/Environment-OpenAI%20Gym-blue)](https://gym.openai.com)
+[![Status](https://img.shields.io/badge/Status-Experimental-orange)]()
+[![License](https://img.shields.io/github/license/salman-shah-ai/Parameter-Space-Noise-for-Exploration)](https://github.com/salman-shah-ai/Parameter-Space-Noise-for-Exploration/blob/main/LICENSE)
 
-A **Reinforcement Learning policy** trained via **Proximal Policy Optimization (PPO)** for continuous control environments.  
-Focuses on adaptive policy optimization under uncertain and dynamic task conditions.
+An implementation of **parameter-space noise** for deep reinforcement learning.  
+This method perturbs network parameters directly, enabling richer exploration and more stable policy learning across continuous-control tasks.
+
+---
+
+### 🤖 [TD3 PyTorch — BipedalWalker-v2](https://github.com/salman-shah-ai/TD3-PyTorch-BipedalWalker-v2)
+[![Python](https://img.shields.io/badge/Language-Python-yellow?logo=python)](https://www.python.org)
+[![PyTorch](https://img.shields.io/badge/Library-PyTorch-orange?logo=pytorch)](https://pytorch.org)
+[![BipedalWalker](https://img.shields.io/badge/Environment-BipedalWalker--v2-blue)](https://gymnasium.farama.org)
+[![Status](https://img.shields.io/badge/Status-Complete-brightgreen)]()
+[![License](https://img.shields.io/github/license/salman-shah-ai/TD3-PyTorch-BipedalWalker-v2)](https://github.com/salman-shah-ai/TD3-PyTorch-BipedalWalker-v2/blob/main/LICENSE)
+
+A complete **Twin Delayed Deep Deterministic Policy Gradient (TD3)** implementation for the BipedalWalker-v2 environment.  
+Demonstrates stable learning using **twin critics**, **delayed policy updates**, and **target smoothing** to train a walking agent efficiently.
 
 ---
 
