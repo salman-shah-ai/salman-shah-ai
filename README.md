@@ -19,7 +19,7 @@ I investigate how intelligent systems learn, adapt, and collaborate with humans 
 
 ## 📌 Pinned Research Projects
 
-### 🏗️ [Digital Twin–Driven Real-Time Collaborative Scheduling (v2.0)](https://github.com/salman-shah-ai/Digital-Twin-Driven-Real-Time-Collaborative-Scheduling-for-U-Shaped-Automated-Container-Terminals)
+### 🏗️ [Digital Twin–Driven Real-Time Collaborative Scheduling (v2.0)](https://github.com/salman-shah-ai/Digital-Twin-Driven-Real-Time-Collaborative-Scheduling-for-U-Shaped-Automated-Container-Terminals-V2)
 [![Python](https://img.shields.io/badge/Language-Python-yellow?logo=python)](https://www.python.org)
 [![Simulation](https://img.shields.io/badge/Domain-Digital%20Twin-blue)]()
 [![Optimization](https://img.shields.io/badge/Focus-Real--Time%20Scheduling-green)]()
